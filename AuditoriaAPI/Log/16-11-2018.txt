@@ -1,0 +1,1722 @@
+
+[16/11/2018 às 10:36] - 
+
+[16/11/2018 às 10:42] - 
+
+[16/11/2018 às 10:42] - 
+
+[16/11/2018 às 10:43] - 
+
+[16/11/2018 às 10:43] - 
+
+[16/11/2018 às 10:43] - 
+
+[16/11/2018 às 10:43] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 10:45] - 
+
+[16/11/2018 às 10:45] - 
+
+[16/11/2018 às 10:49] - 
+
+[16/11/2018 às 10:49] - 
+
+[16/11/2018 às 10:49] - 
+
+[16/11/2018 às 10:50] - 
+
+[16/11/2018 às 10:50] - 
+
+[16/11/2018 às 10:50] - 
+
+[16/11/2018 às 10:50] - 
+
+[16/11/2018 às 10:50] - 
+
+[16/11/2018 às 10:50] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 10:51] - 
+
+[16/11/2018 às 10:51] - 
+
+[16/11/2018 às 10:51] - 
+
+[16/11/2018 às 10:57] - 
+
+[16/11/2018 às 10:57] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 10:58] - 
+
+[16/11/2018 às 10:58] - 
+
+[16/11/2018 às 10:58] - 
+
+[16/11/2018 às 10:58] - 
+
+[16/11/2018 às 10:58] - 
+
+[16/11/2018 às 10:58] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 10:58] - 
+
+[16/11/2018 às 10:58] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 10:59] - 
+
+[16/11/2018 às 10:59] - 
+
+[16/11/2018 às 10:59] - 
+
+[16/11/2018 às 10:59] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 10:59] - 
+
+[16/11/2018 às 10:59] - 
+
+[16/11/2018 às 11:03] - 
+
+[16/11/2018 às 11:05] - 
+
+[16/11/2018 às 11:05] - 
+
+[16/11/2018 às 11:06] - 
+
+[16/11/2018 às 11:06] - 
+
+[16/11/2018 às 11:06] - 
+
+[16/11/2018 às 11:06] - 
+
+[16/11/2018 às 11:06] - 
+
+[16/11/2018 às 11:06] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 11:06] - 
+
+[16/11/2018 às 11:06] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 11:14] - 
+
+[16/11/2018 às 11:14] - 
+
+[16/11/2018 às 11:14] - 
+
+[16/11/2018 às 11:14] - 
+
+[16/11/2018 às 11:14] - 
+
+[16/11/2018 às 11:14] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 11:14] - 
+
+[16/11/2018 às 11:14] - 
+
+[16/11/2018 às 11:14] - 
+
+[16/11/2018 às 11:20] - 
+
+[16/11/2018 às 11:20] - 
+
+[16/11/2018 às 11:21] - 
+
+[16/11/2018 às 11:21] - 
+
+[16/11/2018 às 11:21] - 
+
+[16/11/2018 às 11:21] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 11:21] - 
+
+[16/11/2018 às 11:21] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 11:24] - 
+
+[16/11/2018 às 11:24] - 
+
+[16/11/2018 às 11:24] - 
+
+[16/11/2018 às 11:24] - 
+
+[16/11/2018 às 11:24] - 
+
+[16/11/2018 às 11:24] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 11:24] - 
+
+[16/11/2018 às 11:24] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 11:27] - 
+
+[16/11/2018 às 11:27] - 
+
+[16/11/2018 às 11:27] - 
+
+[16/11/2018 às 11:27] - 
+
+[16/11/2018 às 11:27] - 
+
+[16/11/2018 às 11:27] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 11:28] - 
+
+[16/11/2018 às 11:28] - 
+
+[16/11/2018 às 11:28] - 
+
+[16/11/2018 às 11:32] - 
+
+[16/11/2018 às 11:32] - 
+
+[16/11/2018 às 11:32] - 
+
+[16/11/2018 às 11:32] - 
+
+[16/11/2018 às 11:32] - 
+
+[16/11/2018 às 11:32] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 11:32] - 
+
+[16/11/2018 às 11:33] - 
+
+[16/11/2018 às 11:33] - 
+
+[16/11/2018 às 14:39] - 
+
+[16/11/2018 às 14:39] - 
+
+[16/11/2018 às 14:39] - 
+
+[16/11/2018 às 14:39] - 
+
+[16/11/2018 às 14:39] - 
+
+[16/11/2018 às 14:39] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 14:39] - 
+
+[16/11/2018 às 14:39] - 
+
+[16/11/2018 às 14:39] - 
+
+[16/11/2018 às 14:39] - 
+
+[16/11/2018 às 14:39] - 
+
+[16/11/2018 às 14:42] - 
+
+[16/11/2018 às 14:42] - 
+
+[16/11/2018 às 14:42] - 
+
+[16/11/2018 às 14:42] - 
+
+[16/11/2018 às 14:42] - 
+
+[16/11/2018 às 14:42] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 14:43] - 
+
+[16/11/2018 às 14:43] - 
+
+[16/11/2018 às 14:43] - 
+
+[16/11/2018 às 14:43] - 
+
+[16/11/2018 às 14:43] - 
+
+[16/11/2018 às 14:59] - 
+
+[16/11/2018 às 14:59] - 
+
+[16/11/2018 às 14:59] - 
+
+[16/11/2018 às 14:59] - 
+
+[16/11/2018 às 14:59] - 
+
+[16/11/2018 às 14:59] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:00] - 
+
+[16/11/2018 às 15:00] - 
+
+[16/11/2018 às 15:00] - 
+
+[16/11/2018 às 15:00] - 
+
+[16/11/2018 às 15:00] - 
+
+[16/11/2018 às 15:03] - 
+
+[16/11/2018 às 15:03] - 
+
+[16/11/2018 às 15:03] - 
+
+[16/11/2018 às 15:03] - 
+
+[16/11/2018 às 15:03] - 
+
+[16/11/2018 às 15:03] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:03] - 
+
+[16/11/2018 às 15:06] - 
+
+[16/11/2018 às 15:06] - 
+
+[16/11/2018 às 15:07] - 
+
+[16/11/2018 às 15:07] - 
+
+[16/11/2018 às 15:07] - 
+
+[16/11/2018 às 15:07] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:07] - 
+
+[16/11/2018 às 15:07] - 
+
+[16/11/2018 às 15:07] - 
+
+[16/11/2018 às 15:07] - 
+
+[16/11/2018 às 15:07] - 
+
+[16/11/2018 às 15:17] - 
+
+[16/11/2018 às 15:17] - 
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:18] - 
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:20] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:20] - 
+
+[16/11/2018 às 15:21] - 
+
+[16/11/2018 às 15:21] - 
+
+[16/11/2018 às 15:21] - 
+
+[16/11/2018 às 15:21] - 
+
+[16/11/2018 às 15:21] - 
+
+[16/11/2018 às 15:21] - 
+
+[16/11/2018 às 15:21] - 
+
+[16/11/2018 às 15:21] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:22] - 
+
+[16/11/2018 às 15:22] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 15:22] - 
+
+[16/11/2018 às 15:22] - 
+
+[16/11/2018 às 15:22] - 
+
+[16/11/2018 às 15:22] - 
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:23] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:23] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:23] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:23] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:23] - 
+
+[16/11/2018 às 15:24] - 
+
+[16/11/2018 às 15:24] - 
+
+[16/11/2018 às 15:24] - 
+
+[16/11/2018 às 15:24] - 
+
+[16/11/2018 às 15:24] - 
+
+[16/11/2018 às 15:24] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:24] - 
+
+[16/11/2018 às 15:24] - 
+
+[16/11/2018 às 15:24] - 
+
+[16/11/2018 às 15:24] - 
+
+[16/11/2018 às 15:24] - 
+
+[16/11/2018 às 15:26] - 
+
+[16/11/2018 às 15:26] - 
+
+[16/11/2018 às 15:26] - 
+
+[16/11/2018 às 15:26] - 
+
+[16/11/2018 às 15:26] - 
+
+[16/11/2018 às 15:26] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:26] - 
+
+[16/11/2018 às 15:26] - 
+
+[16/11/2018 às 15:26] - 
+
+[16/11/2018 às 15:26] - 
+
+[16/11/2018 às 15:26] - 
+
+[16/11/2018 às 15:34] - 
+
+[16/11/2018 às 15:34] - 
+
+[16/11/2018 às 15:34] - 
+
+[16/11/2018 às 15:34] - 
+
+[16/11/2018 às 15:34] - 
+
+[16/11/2018 às 15:34] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:34] - 
+
+[16/11/2018 às 15:35] - 
+
+[16/11/2018 às 15:35] - 
+
+[16/11/2018 às 15:35] - 
+
+[16/11/2018 às 15:35] - 
+
+[16/11/2018 às 15:43] - 
+
+[16/11/2018 às 15:43] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:44] - 
+
+[16/11/2018 às 15:45] - 
+
+[16/11/2018 às 15:45] - 
+
+[16/11/2018 às 15:45] - 
+
+[16/11/2018 às 15:45] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:45] - 
+
+[16/11/2018 às 15:45] - 
+
+[16/11/2018 às 15:45] - 
+
+[16/11/2018 às 15:45] - 
+
+[16/11/2018 às 15:45] - 
+
+[16/11/2018 às 15:50] - 
+
+[16/11/2018 às 15:50] - 
+
+[16/11/2018 às 15:50] - 
+
+[16/11/2018 às 15:50] - 
+
+[16/11/2018 às 15:50] - 
+
+[16/11/2018 às 15:50] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:50] - 
+
+[16/11/2018 às 15:50] - 
+
+[16/11/2018 às 15:50] - 
+
+[16/11/2018 às 15:50] - 
+
+[16/11/2018 às 15:50] - 
+
+[16/11/2018 às 15:56] - 
+
+[16/11/2018 às 15:56] - 
+
+[16/11/2018 às 15:56] - 
+
+[16/11/2018 às 15:56] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:57] - 
+
+[16/11/2018 às 15:57] - 
+
+[16/11/2018 às 15:57] - 
+
+[16/11/2018 às 15:57] - 
+
+[16/11/2018 às 15:57] - 
+
+[16/11/2018 às 15:59] - 
+
+[16/11/2018 às 15:59] - 
+
+[16/11/2018 às 15:59] - 
+
+[16/11/2018 às 15:59] - 
+
+[16/11/2018 às 15:59] - 
+
+[16/11/2018 às 15:59] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 15:59] - 
+
+[16/11/2018 às 16:00] - 
+
+[16/11/2018 às 16:00] - 
+
+[16/11/2018 às 16:00] - 
+
+[16/11/2018 às 16:00] - 
+
+[16/11/2018 às 16:01] - 
+
+[16/11/2018 às 16:01] - 
+
+[16/11/2018 às 16:01] - 
+
+[16/11/2018 às 16:01] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:01] - 
+
+[16/11/2018 às 16:01] - 
+
+[16/11/2018 às 16:01] - 
+
+[16/11/2018 às 16:02] - 
+
+[16/11/2018 às 16:02] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] - 
+
+[16/11/2018 às 16:03] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:04] - 
+
+[16/11/2018 às 16:04] - 
+
+[16/11/2018 às 16:04] - 
+
+[16/11/2018 às 16:05] - 
+
+[16/11/2018 às 16:05] - 
+
+[16/11/2018 às 16:05] - 
+
+[16/11/2018 às 16:05] - 
+
+[16/11/2018 às 16:05] - 
+
+[16/11/2018 às 16:05] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:05] - 
+
+[16/11/2018 às 16:05] - 
+
+[16/11/2018 às 16:05] - 
+
+[16/11/2018 às 16:05] - 
+
+[16/11/2018 às 16:05] - 
+
+[16/11/2018 às 16:06] - 
+
+[16/11/2018 às 16:06] - 
+
+[16/11/2018 às 16:06] - 
+
+[16/11/2018 às 16:06] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:06] - 
+
+[16/11/2018 às 16:06] - 
+
+[16/11/2018 às 16:06] - 
+
+[16/11/2018 às 16:07] - 
+
+[16/11/2018 às 16:07] - 
+
+[16/11/2018 às 16:07] - 
+
+[16/11/2018 às 16:07] - 
+
+[16/11/2018 às 16:07] - 
+
+[16/11/2018 às 16:07] - 
+
+[16/11/2018 às 16:07] - 
+
+[16/11/2018 às 16:07] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:07] - 
+
+[16/11/2018 às 16:07] - 
+
+[16/11/2018 às 16:07] - 
+
+[16/11/2018 às 16:08] - 
+
+[16/11/2018 às 16:08] - 
+
+[16/11/2018 às 16:08] - 
+
+[16/11/2018 às 16:08] - 
+
+[16/11/2018 às 16:08] - 
+
+[16/11/2018 às 16:08] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:08] - 
+
+[16/11/2018 às 16:08] - 
+
+[16/11/2018 às 16:08] - 
+
+[16/11/2018 às 16:10] - 
+
+[16/11/2018 às 16:10] - 
+
+[16/11/2018 às 16:10] - 
+
+[16/11/2018 às 16:10] - 
+
+[16/11/2018 às 16:10] - 
+
+[16/11/2018 às 16:10] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:10] - 
+
+[16/11/2018 às 16:10] - 
+
+[16/11/2018 às 16:10] - 
+
+[16/11/2018 às 16:11] - 
+
+[16/11/2018 às 16:11] - 
+
+[16/11/2018 às 16:11] - 
+
+[16/11/2018 às 16:11] - 
+
+[16/11/2018 às 16:11] - 
+
+[16/11/2018 às 16:11] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:11] - 
+
+[16/11/2018 às 16:11] - 
+
+[16/11/2018 às 16:11] - 
+
+[16/11/2018 às 16:14] - 
+
+[16/11/2018 às 16:14] - 
+
+[16/11/2018 às 16:14] - 
+
+[16/11/2018 às 16:14] - 
+
+[16/11/2018 às 16:14] - 
+
+[16/11/2018 às 16:14] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:14] - 
+
+[16/11/2018 às 16:14] - 
+
+[16/11/2018 às 16:14] - 
+
+[16/11/2018 às 16:16] - 
+
+[16/11/2018 às 16:16] - 
+
+[16/11/2018 às 16:16] - 
+
+[16/11/2018 às 16:16] - 
+
+[16/11/2018 às 16:16] - 
+
+[16/11/2018 às 16:16] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:16] - 
+
+[16/11/2018 às 16:16] - 
+
+[16/11/2018 às 16:16] - 
+
+[16/11/2018 às 16:19] - 
+
+[16/11/2018 às 16:19] - 
+
+[16/11/2018 às 16:19] - 
+
+[16/11/2018 às 16:19] - 
+
+[16/11/2018 às 16:19] - 
+
+[16/11/2018 às 16:19] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:19] - 
+
+[16/11/2018 às 16:19] - 
+
+[16/11/2018 às 16:19] - 
+
+[16/11/2018 às 16:20] - 
+
+[16/11/2018 às 16:20] - 
+
+[16/11/2018 às 16:21] - 
+
+[16/11/2018 às 16:21] - 
+
+[16/11/2018 às 16:21] - 
+
+[16/11/2018 às 16:21] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:21] - 
+
+[16/11/2018 às 16:22] - 
+
+[16/11/2018 às 16:22] - 
+
+[16/11/2018 às 16:24] - 
+
+[16/11/2018 às 16:24] - 
+
+[16/11/2018 às 16:26] - 
+
+[16/11/2018 às 16:26] - 
+
+[16/11/2018 às 16:26] - 
+
+[16/11/2018 às 16:26] - 
+
+[16/11/2018 às 16:26] - 
+
+[16/11/2018 às 16:26] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:26] - 
+
+[16/11/2018 às 16:26] - 
+
+[16/11/2018 às 16:26] - 
+
+[16/11/2018 às 16:27] - 
+
+[16/11/2018 às 16:27] - 
+
+[16/11/2018 às 16:27] - 
+
+[16/11/2018 às 16:27] - 
+
+[16/11/2018 às 16:27] - 
+
+[16/11/2018 às 16:27] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:27] - 
+
+[16/11/2018 às 16:27] - 
+
+[16/11/2018 às 16:27] - 
+
+[16/11/2018 às 16:28] - 
+
+[16/11/2018 às 16:28] - 
+
+[16/11/2018 às 16:30] - 
+
+[16/11/2018 às 16:30] - 
+
+[16/11/2018 às 16:30] - 
+
+[16/11/2018 às 16:30] - 
+
+[16/11/2018 às 16:30] - 
+
+[16/11/2018 às 16:30] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:30] - 
+
+[16/11/2018 às 16:30] - 
+
+[16/11/2018 às 16:30] - 
+
+[16/11/2018 às 16:30] - 
+
+[16/11/2018 às 16:30] - 
+
+[16/11/2018 às 16:32] - 
+
+[16/11/2018 às 16:32] - 
+
+[16/11/2018 às 16:32] - 
+
+[16/11/2018 às 16:32] - 
+
+[16/11/2018 às 16:32] - 
+
+[16/11/2018 às 16:32] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:32] - 
+
+[16/11/2018 às 16:32] - 
+
+[16/11/2018 às 16:32] - 
+
+[16/11/2018 às 16:32] - 
+
+[16/11/2018 às 16:32] - 
+
+[16/11/2018 às 16:34] - 
+
+[16/11/2018 às 16:34] - 
+
+[16/11/2018 às 16:34] - 
+
+[16/11/2018 às 16:34] - 
+
+[16/11/2018 às 16:34] - 
+
+[16/11/2018 às 16:34] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:34] - 
+
+[16/11/2018 às 16:34] - 
+
+[16/11/2018 às 16:34] - 
+
+[16/11/2018 às 16:34] - 
+
+[16/11/2018 às 16:34] - 
+
+[16/11/2018 às 16:37] - 
+
+[16/11/2018 às 16:37] - 
+
+[16/11/2018 às 16:37] - 
+
+[16/11/2018 às 16:37] - 
+
+[16/11/2018 às 16:37] - 
+
+[16/11/2018 às 16:37] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:37] - 
+
+[16/11/2018 às 16:37] - 
+
+[16/11/2018 às 16:37] - 
+
+[16/11/2018 às 16:37] - 
+
+[16/11/2018 às 16:37] - 
+
+[16/11/2018 às 16:39] - 
+
+[16/11/2018 às 16:39] - 
+
+[16/11/2018 às 16:39] - 
+
+[16/11/2018 às 16:39] - 
+
+[16/11/2018 às 16:39] - 
+
+[16/11/2018 às 16:39] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:39] - 
+
+[16/11/2018 às 16:39] - 
+
+[16/11/2018 às 16:39] - 
+
+[16/11/2018 às 16:39] - 
+
+[16/11/2018 às 16:39] - 
+
+[16/11/2018 às 16:41] - 
+
+[16/11/2018 às 16:41] - 
+
+[16/11/2018 às 16:41] - 
+
+[16/11/2018 às 16:42] - 
+
+[16/11/2018 às 16:43] - System.Data.SqlClient.SqlException (0x80131904): Must declare the scalar variable "@idAuditoria".
+Must declare the scalar variable "@idAuditoria".
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   em System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   em System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   em System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   em System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   em Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   em Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   em Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   em AuditoriaAPI.Repository.Repository`1.Insert(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 111
+ClientConnectionId:4900f7b5-032d-4d65-996e-199596d4a52f
+Error Number:137,State:1,Class:15
+
+[16/11/2018 às 16:43] - 
+
+[16/11/2018 às 16:43] - 
+
+[16/11/2018 às 16:43] - 
+
+[16/11/2018 às 16:43] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:43] - 
+
+[16/11/2018 às 16:43] - 
+
+[16/11/2018 às 16:43] - 
+
+[16/11/2018 às 16:43] - 
+
+[16/11/2018 às 16:43] - 
+
+[16/11/2018 às 16:45] - 
+
+[16/11/2018 às 16:45] - 
+
+[16/11/2018 às 16:45] - 
+
+[16/11/2018 às 16:45] - 
+
+[16/11/2018 às 16:45] - 
+
+[16/11/2018 às 16:45] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:45] - 
+
+[16/11/2018 às 16:45] - 
+
+[16/11/2018 às 16:45] - 
+
+[16/11/2018 às 16:45] - 
+
+[16/11/2018 às 16:45] - 
+
+[16/11/2018 às 16:47] - 
+
+[16/11/2018 às 16:47] - 
+
+[16/11/2018 às 16:47] - 
+
+[16/11/2018 às 16:47] - 
+
+[16/11/2018 às 16:47] - 
+
+[16/11/2018 às 16:47] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:47] - 
+
+[16/11/2018 às 16:47] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 16:47] - 
+
+[16/11/2018 às 16:47] - 
+
+[16/11/2018 às 16:48] - 
+
+[16/11/2018 às 16:48] - 
+
+[16/11/2018 às 16:48] - 
+
+[16/11/2018 às 16:48] - 
+
+[16/11/2018 às 16:48] - 
+
+[16/11/2018 às 16:48] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:48] - 
+
+[16/11/2018 às 16:48] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 16:48] - 
+
+[16/11/2018 às 16:48] - 
+
+[16/11/2018 às 16:49] - 
+
+[16/11/2018 às 16:49] - 
+
+[16/11/2018 às 16:49] - 
+
+[16/11/2018 às 16:49] - 
+
+[16/11/2018 às 16:49] - 
+
+[16/11/2018 às 16:49] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:49] - 
+
+[16/11/2018 às 16:49] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 16:49] - 
+
+[16/11/2018 às 16:49] - 
+
+[16/11/2018 às 16:49] - 
+
+[16/11/2018 às 16:49] - 
+
+[16/11/2018 às 16:50] - 
+
+[16/11/2018 às 16:50] - 
+
+[16/11/2018 às 16:50] - 
+
+[16/11/2018 às 16:50] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:50] - 
+
+[16/11/2018 às 16:50] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 16:50] - 
+
+[16/11/2018 às 16:50] - 
+
+[16/11/2018 às 16:51] - 
+
+[16/11/2018 às 16:51] - 
+
+[16/11/2018 às 16:51] - 
+
+[16/11/2018 às 16:51] - 
+
+[16/11/2018 às 16:51] - 
+
+[16/11/2018 às 16:51] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:51] - 
+
+[16/11/2018 às 16:51] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Util\FileCreator.cs:linha 72
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings) na C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Repository\Repository.cs:linha 26
+
+[16/11/2018 às 16:51] - 
+
+[16/11/2018 às 16:51] - 
+
+[16/11/2018 às 16:53] - 
+
+[16/11/2018 às 16:53] - 
+
+[16/11/2018 às 16:53] - 
+
+[16/11/2018 às 16:53] - 
+
+[16/11/2018 às 16:53] - 
+
+[16/11/2018 às 16:53] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:53] - 
+
+[16/11/2018 às 16:53] - 
+
+[16/11/2018 às 16:53] - 
+
+[16/11/2018 às 16:53] - 
+
+[16/11/2018 às 16:53] - 
+
+[16/11/2018 às 16:54] - 
+
+[16/11/2018 às 16:54] - 
+
+[16/11/2018 às 16:54] - 
+
+[16/11/2018 às 16:54] - 
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 16:57] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 16:57] - 
+
+[16/11/2018 às 17:01] - System.Data.SqlClient.SqlException (0x80131904): Must declare the scalar variable "@idAuditoria".
+Must declare the scalar variable "@idAuditoria".
+   em System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   em System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   em System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   em System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   em System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async, Int32 timeout, Boolean asyncWrite)
+   em System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   em System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   em Dapper.SqlMapper.ExecuteCommand(IDbConnection cnn, CommandDefinition& command, Action`2 paramReader)
+   em Dapper.SqlMapper.ExecuteImpl(IDbConnection cnn, CommandDefinition& command)
+   em Dapper.SqlMapper.Execute(IDbConnection cnn, String sql, Object param, IDbTransaction transaction, Nullable`1 commandTimeout, Nullable`1 commandType)
+   em AuditoriaAPI.Repository.Repository`1.Insert(String query, enumConnectionString connectionStrings)
+ClientConnectionId:6608769b-39b0-4ddb-b5a0-bb02a6cb3e4b
+Error Number:137,State:1,Class:15
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:08] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:08] - 
+
+[16/11/2018 às 17:09] - 
+
+[16/11/2018 às 17:09] - 
+
+[16/11/2018 às 17:09] - 
+
+[16/11/2018 às 17:09] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text)
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings)
+
+[16/11/2018 às 17:09] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text)
+   em AuditoriaAPI.Repository.Repository`1.getCount(String query, enumConnectionString connectionStrings)
+
+[16/11/2018 às 17:11] - 
+
+[16/11/2018 às 17:11] - 
+
+[16/11/2018 às 17:11] - 
+
+[16/11/2018 às 17:11] - 
+
+[16/11/2018 às 17:11] - 
+
+[16/11/2018 às 17:11] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:16] - 
+
+[16/11/2018 às 17:16] - 
+
+[16/11/2018 às 17:16] - 
+
+[16/11/2018 às 17:16] - 
+
+[16/11/2018 às 17:16] - 
+
+[16/11/2018 às 17:16] - 
+
+[16/11/2018 às 17:16] - 
+
+[16/11/2018 às 17:17] - 
+
+[16/11/2018 às 17:17] - 
+
+[16/11/2018 às 17:17] - 
+
+[16/11/2018 às 17:17] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text)
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings)
+
+[16/11/2018 às 17:17] - 
+
+[16/11/2018 às 17:17] - 
+
+[16/11/2018 às 17:20] - 
+
+[16/11/2018 às 17:20] - 
+
+[16/11/2018 às 17:20] - 
+
+[16/11/2018 às 17:20] - 
+
+[16/11/2018 às 17:20] - 
+
+[16/11/2018 às 17:20] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:21] - 
+
+[16/11/2018 às 17:21] - 
+
+[16/11/2018 às 17:21] - 
+
+[16/11/2018 às 17:21] - 
+
+[16/11/2018 às 17:21] - 
+
+[16/11/2018 às 17:21] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:21] - 
+
+[16/11/2018 às 17:21] - 
+
+[16/11/2018 às 17:22] - 
+
+[16/11/2018 às 17:22] - 
+
+[16/11/2018 às 17:23] - 
+
+[16/11/2018 às 17:23] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:31] - 
+
+[16/11/2018 às 17:31] - 
+
+[16/11/2018 às 17:31] - 
+
+[16/11/2018 às 17:31] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text)
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings)
+
+[16/11/2018 às 17:31] - 
+
+[16/11/2018 às 17:31] - 
+
+[16/11/2018 às 17:31] - 
+
+[16/11/2018 às 17:31] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] - 
+
+[16/11/2018 às 17:32] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:33] - 
+
+[16/11/2018 às 17:33] - 
+
+[16/11/2018 às 17:33] - 
+
+[16/11/2018 às 17:33] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:36] - 
+
+[16/11/2018 às 17:36] - 
+
+[16/11/2018 às 17:36] - 
+
+[16/11/2018 às 17:36] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:40] - 
+
+[16/11/2018 às 17:40] - 
+
+[16/11/2018 às 17:40] - 
+
+[16/11/2018 às 17:40] - 
+
+[16/11/2018 às 17:40] - 
+
+[16/11/2018 às 17:40] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:42] - 
+
+[16/11/2018 às 17:42] - 
+
+[16/11/2018 às 17:42] - 
+
+[16/11/2018 às 17:42] - 
+
+[16/11/2018 às 17:42] - 
+
+[16/11/2018 às 17:42] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:43] - 
+
+[16/11/2018 às 17:43] - 
+
+[16/11/2018 às 17:43] - 
+
+[16/11/2018 às 17:43] - 
+
+[16/11/2018 às 17:43] - 
+
+[16/11/2018 às 17:43] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:44] - 
+
+[16/11/2018 às 17:44] - 
+
+[16/11/2018 às 17:44] - 
+
+[16/11/2018 às 17:44] - 
+
+[16/11/2018 às 17:44] - 
+
+[16/11/2018 às 17:44] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:44] - 
+
+[16/11/2018 às 17:44] - 
+
+[16/11/2018 às 17:44] - 
+
+[16/11/2018 às 17:44] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:45] - 
+
+[16/11/2018 às 17:45] - 
+
+[16/11/2018 às 17:45] - 
+
+[16/11/2018 às 17:45] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:47] - 
+
+[16/11/2018 às 17:47] - 
+
+[16/11/2018 às 17:47] - 
+
+[16/11/2018 às 17:47] - 
+
+[16/11/2018 às 17:47] - 
+
+[16/11/2018 às 17:47] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:49] - 
+
+[16/11/2018 às 17:49] - 
+
+[16/11/2018 às 17:49] - 
+
+[16/11/2018 às 17:49] - 
+
+[16/11/2018 às 17:49] - 
+
+[16/11/2018 às 17:49] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:49] - 
+
+[16/11/2018 às 17:49] - 
+
+[16/11/2018 às 17:50] - 
+
+[16/11/2018 às 17:50] - 
+
+[16/11/2018 às 17:50] - 
+
+[16/11/2018 às 17:50] - 
+
+[16/11/2018 às 17:50] - 
+
+[16/11/2018 às 17:50] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:50] - 
+
+[16/11/2018 às 17:50] - 
+
+[16/11/2018 às 17:51] - 
+
+[16/11/2018 às 17:51] - 
+
+[16/11/2018 às 17:51] - 
+
+[16/11/2018 às 17:51] - 
+
+[16/11/2018 às 17:51] - 
+
+[16/11/2018 às 17:51] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:51] - 
+
+[16/11/2018 às 17:51] - 
+
+[16/11/2018 às 17:51] - 
+
+[16/11/2018 às 17:51] - 
+
+[16/11/2018 às 17:51] - 
+
+[16/11/2018 às 17:51] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] - 
+
+[16/11/2018 às 17:54] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text)
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings)
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text)
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings)
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] - 
+
+[16/11/2018 às 17:55] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:56] - 
+
+[16/11/2018 às 17:56] - System.IO.IOException: O processo não pode acessar o arquivo 'C:\Users\André\Documents\GitHub\AuditoriaAPI\AuditoriaAPI\AuditoriaAPI\Log\16-11-2018.txt' porque ele está sendo usado por outro processo.
+   em AuditoriaAPI.Util.FileCreator.WriteTxtLog(String text)
+   em AuditoriaAPI.Repository.Repository`1.getList(String query, enumConnectionString connectionStrings)
+
+[16/11/2018 às 17:56] - 
+
+[16/11/2018 às 17:56] - 
+
+[16/11/2018 às 17:57] - 
+
+[16/11/2018 às 17:57] - 
+
+[16/11/2018 às 17:57] - 
+
+[16/11/2018 às 17:57] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:57] - 
+
+[16/11/2018 às 17:57] - 
+
+[16/11/2018 às 17:57] - 
+
+[16/11/2018 às 17:57] - 
+
+[16/11/2018 às 17:57] - 
+
+[16/11/2018 às 17:57] - 
+
+[16/11/2018 às 17:57] - 
+
+[16/11/2018 às 17:57] - 
+
+[16/11/2018 às 17:57] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:58] - 
+
+[16/11/2018 às 17:58] - 
+
+[16/11/2018 às 17:58] - 
+
+[16/11/2018 às 17:58] - 
+
+[16/11/2018 às 17:58] - 
+
+[16/11/2018 às 17:58] - 
+
+[16/11/2018 às 17:58] - 
+
+[16/11/2018 às 17:58] - 
+
+[16/11/2018 às 17:58] -    SELECT count(id) FROM dbo.tbAuditoria  
+
+[16/11/2018 às 17:58] - 
+
+[16/11/2018 às 17:58] - 
